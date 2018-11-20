@@ -59,7 +59,7 @@ class App extends Component {
             />
           ))}
         </Header>
-        <footer className='footer'>
+        <footer className="footer">
           <p>clicky game by denis plaster!</p>
         </footer>
       </div>
