@@ -60,7 +60,7 @@ class App extends Component {
           ))}
         </Header>
         <footer className="footer">
-          <p>clicky game by denis plaster</p>
+          <p>clicky game by denis plaster!</p>
         </footer>
       </div>
     );
